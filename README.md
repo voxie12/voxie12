@@ -3,7 +3,7 @@
 <img src="https://wallpapercave.com/wp/wp5952301.png">
 
 ### 🚀about me:
-hello i'm Jay! I'm 22 and I like computer stuff in general, so I use arch linux and like learning a bit about programming.
+Hello, I'm Jay! I'm 22 and I like computer stuff in general, so I use arch linux and like learning a bit about programming.
 
 ### :star: setup:
 #### hardware:
