@@ -1,29 +1,23 @@
 ## welcome to my profile:wave:
 
-<img src="https://wallpapercave.com/wp/wp5952301.png">
+<img src="https://w.wallhaven.cc/full/we/wallhaven-wed8l6.jpg">
 
-### 🚀about me:
-Hello, I'm Jay! I'm 22 and I like computer stuff in general, so I use arch linux and like learning a bit about programming.
+### 🚀 about me:
+Hello, I'm Jay! I'm 25 and I like computer stuff in general, so I use arch linux and like learning a bit about programming.
 
-### :star: setup:
-#### hardware:
-CPU: i5-6500 @ 3.20GHz
+#### :penguin: The Thing I use on my Linux:
+| Software | Prefered |
+|---|---|
+| Distro | Arch Linux |
+| Editor | Neovim |
+| WM | Qtile |
+| Shell | ZSH |
+| Terminal | Alacritty |
+| Browser | Firefox |
 
-GPU: AMD RX 480 8GB
-
-RAM: 16GB DDR4
-
-Resolution: 1920x1080@144hz
-
-#### software:
-Distro: Arch Linux
-
-Editor: neovim
-
-WM: dwm
-
-Shell: zsh
-
-Terminal: st
-
-Browser: Firefox
+#### 🖥️ My Gaming PC Specs:
+| Component | Hardware |
+|---|---|
+| CPU | Ryzen 7 7700x |
+| GPU | AMD RX 6800 XT |
+| RAM | 32GB DDR5 |
