@@ -18,6 +18,6 @@ Hello, I'm Jay! I'm 25 and I like computer stuff in general, so I use arch linux
 #### 🖥️ My Gaming PC Specs:
 | Component | Hardware |
 |---|---|
-| CPU | Ryzen 7 7700x |
+| CPU | Ryzen 7 7700X |
 | GPU | AMD RX 6800 XT |
 | RAM | 32GB DDR5 |
