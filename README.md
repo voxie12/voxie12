@@ -1,9 +1,9 @@
-## welcome to my profile:wave:
+# Hi there, I'm Voxie 👋
 
-<img src="https://w.wallhaven.cc/full/we/wallhaven-wed8l6.jpg">
+<img src="https://w.wallhaven.cc/full/3q/wallhaven-3q95d3.png">
 
 ### 🚀 about me:
-Hello, I'm Jay! I'm 25 and I like computer stuff in general, so I use arch linux and like learning a bit about programming.
+Hello, I'm Jay! I'm 26 and I like computer stuff in general, so I use arch linux and like learning a bit about programming.
 
 #### :penguin: The Thing I use on my Linux:
 | Software | Prefered |
@@ -12,8 +12,8 @@ Hello, I'm Jay! I'm 25 and I like computer stuff in general, so I use arch linux
 | Editor | Neovim |
 | WM | Qtile |
 | Shell | ZSH |
-| Terminal | Alacritty |
-| Browser | Firefox |
+| Terminal | Ghostty |
+| Browser | Brave |
 
 #### 🖥️ My Gaming PC Specs:
 | Component | Hardware |
